@@ -1,0 +1,7 @@
+.box{
+  background:#5e5f73;
+  border-radius:10px;
+}
+.box:hover{
+  transform: translate(-10px, 0px);
+}
